@@ -1,0 +1,18 @@
+Splitter ID - Check availability within multiple splitter sheet [pick up port number range (G column)]
+
+Available range cross checking - returning from FORTE
+
+Loop Qual - units
+
+Finding the vendor
+
+Unit Condition
+1 = 2 row (del remaining) [POTS = 1, DATA = 1]
+4 = 6 row [POTS = 2, DATA = 4]
+8 = 21 row (for calix) [POTS = 8, DATA = 8, VIDEO = 5]   (for atron, highlight two available splitter)
+
+ONT type (r column)
+CALIX = 716 [4 unit = CASA 4 = 716GE] [8 unit = CASA 8 = 762GX] [1 unit = 803G]
+ATRON = TA324 []
+
+Change Series No Accordingly to Updation (O column)
